@@ -4,8 +4,6 @@
       <root url="jar://$PROJECT_DIR$/dist/RealScan_JAVA.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/lib" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
